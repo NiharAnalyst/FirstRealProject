@@ -1,5 +1,6 @@
 # My Project
 
+Powered by ChatGPT
 This is a sample project.
 
 ## Features
@@ -10,4 +11,5 @@ This is a sample project.
 ## Installation
 ```bash
 git clone https://github.com/username/myproject.git
+
 cd myproject
